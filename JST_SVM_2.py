@@ -3,7 +3,7 @@ import pandas as pd
 from matplotlib import pyplot as plt
 from sklearn import svm
 
-# Training data
+# Training Data 2
 
 data2 = pd.read_excel('Data_JST_SVM_2.xlsx')
 x1 = data2['x1']
